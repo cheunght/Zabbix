@@ -258,7 +258,7 @@
                         </application>
                     </applications>
                     <valuemap>
-                        <name>Host status</name>
+                        <name>Host availability</name>
                     </valuemap>
                 </item>
                 <item>
